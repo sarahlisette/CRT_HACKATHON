@@ -1,11 +1,13 @@
-Team Name:
+Team Name: Sampl
 
 
-Description:
+Description: Intuitive Sample Player retrieves and play samples by selected sample attribute
 
 
-URL:
+URL: [none]
 
 
 Individual Name / Email:
+Ned Anderson: mr.anderson.jr@outlook.com
+Jane Odero Green: jodero@gmail.com
 
