@@ -1,11 +1,11 @@
-Team Name:
+Team Name: LoopVerse
 
 
-Description:
+Description: An Android app that automatically generates mix banks from your selection of key, tempo, and genre. Media is Cashed directly from Converse Rubber Tracks Sample Library.
+
+9 one shot sample banks and 3 loop banks can be played at the same time. Press and hold a bank to load another random sample.
+
+URL: n/a
 
 
-URL:
-
-
-Individual Name / Email:
-
+Individual Name / Email: Marcelo DeCastro / marcelo@pi1.net
