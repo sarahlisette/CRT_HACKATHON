@@ -1,11 +1,10 @@
-Team Name:
+Team Name: Team Schwifty
 
 
-Description:
+Description: In-browser drum pad that loads random loops and one shot samples from https://www.conversesamplelibrary.com/
 
 
-URL:
+URL: https://teamschwifty.herokuapp.com/
 
 
-Individual Name / Email:
-
+Individual Name / Email: Adam Riggs (phlux1111@gmail.com), Alex Espinoza (aespinoza@aspria.net)
