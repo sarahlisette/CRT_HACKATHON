@@ -1,12 +1,19 @@
-Team Name: Sample Square
+## sample_square
 
+the sample square maps wav samples to a two dimensional field based on PCA using musical analysis from spotify. 
 
-Description: A potential music software/plug-in that creates a synthesizer based on sample clusters taken from a 2-D space populated with thousands of potential samples. The location of each individual sample in the space is decided by parameter values determined by the Spotify musical analysis. The user chooses a location on the 2-D space, and the closest neighboring samples are utilized and, in theory, a new tone/sound is created by the recombination of the fundamental frequencies of the samples referenced.  
+users can play clips by clicking on various spots of the heat map
 
+to set up, download the wav files into /sounds with the following code
 
-URL:
+```python
+def download(id_num):
+    s3_key = wavs[i][1]['s3_key'][:-4] + '.mp3'
+    ID = wavs[i][0]['original_id'] + '.mp3'
+    print(start + s3_key)
+    urllib.request.urlretrieve(start + s3_key, location + ID)
+    print(str(n) + ' done!')
+    n += 1
+```
 
-
-Individual Name / Email:
-Ebrahim Ebrahim / ebrahim7@bu.edu
-
+to run, execute `gui.py`
